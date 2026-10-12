@@ -1,0 +1,6 @@
+{
+  "name": "ConveyorDrive",
+  "description": "Desktop-first industrial control-room monitoring and transient analysis suite for PID-controlled conveyor DC motors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
